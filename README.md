@@ -1,2 +1,2 @@
-# Result-Record
+# EmojiDesciber
 Created with CodeSandbox
